@@ -46,6 +46,18 @@ make
 ```
 4. ## Run the game:
 After building, you can run the game with:
-``` ./2048 ```
+```
+./2048
+```
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome improvements, bug fixes, and new features.
+
+# Acknowledgment
+The `ncurses` library is used for handling the console-based user interface in a portable way across Unix-like systems.
+
 
 
