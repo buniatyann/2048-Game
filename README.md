@@ -31,7 +31,7 @@ This is a console-based implementation of the 2048 game, using the MVC (Model-Vi
 # Installation
 To build and run the game, follow these steps:
 1. ## Clone the repository
-  ``` git clone https://github.com/yourusername/2048-console-game.git
+  ``` git clone https://github.com/buniatyann/2048-Game.git
       cd 2048-Game
   ```
 2. ## Install ncurses:
