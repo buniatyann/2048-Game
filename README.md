@@ -11,7 +11,7 @@ This is a console-based implementation of the 2048 game, using the MVC (Model-Vi
 4. Game over when no more valid moves are available.
 
 ## Files Structure:
-```
+``` bash
 /2048-console-game
 │
 ├── src/
