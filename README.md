@@ -11,7 +11,7 @@ This is a console-based implementation of the 2048 game, using the MVC (Model-Vi
 4. Game over when no more valid moves are available.
 
 ## Files Structure:
-``` bash
+```
 /2048-console-game
 │
 ├── src/
@@ -24,6 +24,28 @@ This is a console-based implementation of the 2048 game, using the MVC (Model-Vi
 │   └── main.cpp             # Entry point of the game
 │
 ├── Makefile                 # Makefile for building the game
-├── README.md               # This readme file
+├── README.md               # Readme file
 └── LICENSE                  # Game license
 ```
+
+# Installation
+To build and run the game, follow these steps:
+1. ## Clone the repository
+  ``` git clone https://github.com/yourusername/2048-console-game.git
+      cd 2048-Game
+  ```
+2. ## Install ncurses:
+Ensure you have `ncurses` installed. On most Linux distributions, you can install it with:
+```
+sudo apt-get install libncurses5-dev libncursesw5-dev
+```
+3. ## Build the game:
+Use the provided `Makefile` to build the project:
+```
+make
+```
+4. ## Run the game:
+After building, you can run the game with:
+``` ./2048 ```
+
+
