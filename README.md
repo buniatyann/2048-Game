@@ -51,7 +51,7 @@ After building, you can run the game with:
 ```
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This repository is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 # Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. We welcome improvements, bug fixes, and new features.
